@@ -3,6 +3,7 @@ My name is **Avanindra Chakraborty**
 
 - 🔭 I’m currently working on rsbcli and pmcli
 - 🌱 I’m currently learning python
+- 🤔Planning to learn Golang and HTML, CSS, JS
 - 🤔 I’m looking for help with pmcli
 - 💬 Ask me about my programs
 - 🆘 I need help with Lamda and Global variables in python
