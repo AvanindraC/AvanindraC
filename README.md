@@ -2,7 +2,7 @@
 My name is **Avanindra Chakraborty**
 
 - 🔭 I’m currently working on rsbcli and pmcli
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data science, CV and Machine learning in Python
 - 🤔Planning to learn Golang and HTML, CSS, JS
 - 🤔 I’m looking for help with pmcli
 - 💬 Ask me about my programs
