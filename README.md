@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Avanindra Chakraborty**
 
-- 🔭 I’m currently working on rsbcli and passrack
+- 🔭 I’m currently working on PowerPlayer
 - 🌱 I’m currently learning CV in Python
 - 🤔Planning to learn Golang and HTML, CSS, JS
 - 💬 Ask me about my programs
