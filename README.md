@@ -11,9 +11,12 @@ My name is **Avanindra Chakraborty**
 - ⚡Fun Fact: My profile picture is created by [Arghya Sarkar](https://github.com/arghyagod-coder)
 - 🖥️Operating System Experience- Windows 10 64-bit (Main OS), Ubuntu 20.04 LTS(WSL), Mint 20.01 (VM), Manjaro with Awesome WM(VM ☹️)
 - 📚I study in DPS Ruby Park, Kolkata 
+
+
 [![Avanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanindraC&theme=radical))]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraC)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraC&theme=radical)]
 
 
 
