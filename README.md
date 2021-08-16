@@ -10,7 +10,9 @@ My name is **Avanindra Chakraborty**
 - ⚡Fun Fact: My profile picture is created by [Arghya Sarkar](https://github.com/arghyagod-coder)
 - 📚I study in DPS Ruby Park, Kolkata 
 <br>
+
 ## Programming Languages
+
 <br>
 
 <a href="#">
@@ -25,13 +27,17 @@ My name is **Avanindra Chakraborty**
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
 </a> 
 <br>
+
 ## Currently learning
+
 <br>
  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg">
 </a>
 <br>
+
 ## Tools
+
 <br>
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
