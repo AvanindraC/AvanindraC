@@ -2,7 +2,7 @@
 My name is **Avanindra Chakraborty**
 
 - 🌱 I’m currently learning golang
-- 🤔Planning to learn HTML, CSS, JS
+- 🤔Planning to learn Webdev
 - 💬 Ask me about my programs
 - 🆘 I need help with Lamda and Global variables in python
 - 📫 How to reach me: Discord: NoobPythonCoder#3561, Gmail: avanindra.d.chakraborty@gmail.com
