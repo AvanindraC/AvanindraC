@@ -2,10 +2,7 @@
 My name is **Avanindra Chakraborty**
 
 - 🌱 I’m currently learning golang
-- 🤔Planning to learn Webdev
-- 💬 Ask me about my programs
-- 🆘 I need help with Lamda and Global variables in python
-- 📫 How to reach me: Discord: NoobPythonCoder#3561, Gmail: avanindra.d.chakraborty@gmail.com
+- 🤔Planning to dive deeper into ML and DL
 - 😄 Pronouns: He 
 - ⚡Fun Fact: My profile picture is created by [Arghya Sarkar](https://github.com/arghyagod-coder)
 - 📚I study in DPS Ruby Park, Kolkata 
