@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is **Avanindra Chakraborty**
 
-- 🌱 I’m currently learning golang
-- 🤔Planning to dive deeper into ML and DL
-- 😄 Pronouns: He 
+- 🌱 I’m currently learning CLI and backend web dev in golang
+- 🤔Planning to learn lower level languages 
+- 😄 Pronouns: He/Him 
 - ⚡Fun Fact: My profile picture is created by [Arghya Sarkar](https://github.com/arghyagod-coder)
 - 📚I study in DPS Ruby Park, Kolkata 
 <br>
