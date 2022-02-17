@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Avanindra Chakraborty**
-
+- 📗I am fluent with python, well versed with golang and know C++ 
 - 🌱 I’m currently learning CLI and backend web dev in golang
 - 🤔Planning to learn lower level languages 
 - 😄 Pronouns: He/Him 
