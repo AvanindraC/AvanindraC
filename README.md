@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Avanindra Chakraborty**
 - 📗I am fluent with python, well versed with golang and know C++ 
-- 🌱 I’m currently learning CLI and backend web dev in golang
+- 🌱 I’m currently learning backend web dev in golang and opencv in c++
 - 🤔Planning to learn lower level languages 
 - 😄 Pronouns: He/Him 
 - ⚡Fun Fact: My profile picture is created by [Arghya Sarkar](https://github.com/arghyagod-coder)
