@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is **Avanindra Chakraborty**
-- 📗I am fluent with python, well versed with golang and know C++ 
-- 🌱 I’m currently diving into low level dev
-- 🤔Planning to learn x86_64 asm
+- 📗I am fluent with python, well versed with golang and know C/C++ 
+- 🌱 I’m currently learning x86_64 assembly
+- 🤔Planning to make my own Operating System
 - 😄 Pronouns: He/Him 
 - ⚡Fun Fact: My profile picture is created by [Arghya Sarkar](https://github.com/arghyagod-coder)
 - 📚I study in DPS Ruby Park, Kolkata 
@@ -20,18 +20,9 @@ My name is **Avanindra Chakraborty**
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg">
 </a> 
 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
-</a> 
-<br>
-
-## Currently learning
 
 <br>
- <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg">
-</a>
-<br>
+
 
 ## Tools
 
